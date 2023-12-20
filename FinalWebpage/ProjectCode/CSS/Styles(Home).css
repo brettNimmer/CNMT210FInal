@@ -1,0 +1,136 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.banner
+{
+    color: white;
+    background-color: #EE0202;
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-top: 0px;
+}
+
+h1
+{
+    font-size: 45px;
+}
+
+.logo
+{
+    position: relative; 
+    top: -115px;
+}
+
+.leftLogo
+{
+    float: left;
+    padding-left: 25px;
+}
+
+.rightLogo
+{
+    float: right;
+    padding-right: 25px;
+}
+
+.headerNav
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.headerNav a:hover, a:visited
+{
+    color: lightblue;
+}
+
+.headerNav a, a:active
+{
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+body
+{
+    background-image: url(../Images/Background_HomePage.jpg);
+    background-size: 100% 70%;
+    background-repeat: no-repeat;
+    
+}
+
+.slogan
+{
+    color: white;
+    font-size: 150px;
+    text-transform: uppercase;
+    text-shadow: 6px 12px 4px black;
+    text-align: center;
+    padding-top: 500px;
+}
+
+.aboutUs
+{
+    padding-top: 1000px;
+}
+
+h3
+{
+    font-size: 45px;
+}
+
+.bigContainer
+{
+    clear: both;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bigContainer img
+{
+    float: right;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-bottom: 50px;
+}
+
+.bigContainer .textContainer
+{
+    overflow: hidden;
+    margin-left: 50px;
+}
+
+
+
+footer
+{
+    margin-top: 250px;
+    background-color: #A40101;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+
+
+.footerNav a:hover, a:visited
+{
+    color: lightblue;
+}
+
+.footerNav a, a:active
+{
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+}
